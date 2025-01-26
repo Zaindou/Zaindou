@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Douglas Anaya</h1>
-<h3 align="center">A passionate Fullstack developer from Colombia</h3>
+<h3 align="center">Bored dev from Colombia</h3>
 
-- 🔭 I’m currently working on [QNT SAS](https://www.qnt.com.co)
+- 🔭 I’m currently working on DAHOUSE
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning about life...
 
-- 👨‍💻 All of my projects are available at [Douglasanaya.dev](Douglasanaya.dev)
+- 💬 Ask me about **Django, FastApi, Flasl, Vue, Tailwind CSS.**
 
-- 💬 Ask me about **Django, FastApi, Vue, Tailwind CSS.**
-
-- 📫 How to reach me **zaindouu@gmail.com**
 
 
